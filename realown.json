@@ -1,10 +1,10 @@
 [
     {
         "displayName": "Daorf",
-        "vcard": "BEGIN:VCARD\nVERSION:3.0\nFN:Daorf\nN:Daorf;;;\nTEL;waid=628888:628888\nEMAIL;TYPE=WORK:yurinsno4no@yorizxeone.com\nADR;TYPE=HOME:;;261 Shinjōnakachō;Nagahama;Shiga 526-0012;Jepang\nURL;TYPE=WORK:https:/github.com/Daorf1\nORG:WhatsApp botz developer\nTITLE:Creating Useful WhatsApp Botz\nNOTE:solitude is my pleasure.\nEND:VCARD"
+        "vcard": "BEGIN:VCARD\nVERSION:3.0\nFN:Daorf\nN:Daorf;;;\nTEL;waid=6285787960169:6285787960169\nEMAIL;TYPE=WORK:dao1zun@gmail.com\nADR;TYPE=HOME:;;261 Shinjōnakachō;Nagahama;Shiga 526-0012;Jepang\nURL;TYPE=WORK:https:/github.com/Daorf1\nORG:WhatsApp Bot Developer\nTITLE:Creating Useful WhatsApp Bot\nNOTE:solitude is my pleasure.\nEND:VCARD"
     },
     {
         "displayName": "Daorf Bot",
-        "vcard": "BEGIN:VCARD\nVERSION:3.0\nFN:Daorf Bot\nN:Daorf Bot;;;\nTEL;waid=628888:6288888\nEMAIL;TYPE=WORK:shobotz001@mybotzwhatsapp.com\nADR;TYPE=HOME:;;33 Fukakusa Hiratachō;Fushimi Ward;Kyoto 612-0019;Jepang\nURL;TYPE=WORK:https://github.com/Daorf1\nORG:BOTz SHO\nTITLE:BotWhatsApp\nNOTE:Support kami yah🥰\nEND:VCARD"
+        "vcard": "BEGIN:VCARD\nVERSION:3.0\nFN:Daorf Bot\nN:Daorf Bot;;;\nTEL;waid=6285787141798:6285787141798\nEMAIL;TYPE=WORK:daozun8@gmail.com\nADR;TYPE=HOME:;;33 Fukakusa Hiratachō;Fushimi Ward;Kyoto 612-0019;Jepang\nURL;TYPE=WORK:https://github.com/Daorf1\nORG:BOT DAORF\nTITLE:Bot WhatsApp\nNOTE:Support kami yah🥰\nEND:VCARD"
     }
 ]
