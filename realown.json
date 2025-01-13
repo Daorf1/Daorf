@@ -5,6 +5,6 @@
     },
     {
         "displayName": "Daorf Bot",
-        "vcard": "BEGIN:VCARD\nVERSION:3.0\nFN:Daorf Bot\nN:Daorf Bot;;;\nTEL;waid=6285787141798:6285787141798\nEMAIL;TYPE=WORK:daozun8@gmail.com\nADR;TYPE=HOME:;;33 Fukakusa Hiratachō;Fushimi Ward;Kyoto 612-0019;Jepang\nURL;TYPE=WORK:https://github.com/Daorf1\nORG:BOT DAORF\nTITLE:Bot WhatsApp\nNOTE:Support kami yah🥰\nEND:VCARD"
+        "vcard": "BEGIN:VCARD\nVERSION:3.0\nFN:Daorf Bot\nN:Daorf Bot;;;\nTEL;waid=6285787141798:6285787141798\nEMAIL;TYPE=WORK:daozun8@gmail.com\nADR;TYPE=HOME:;;33 Fukakusa Hiratachō;Fushimi Ward;Kyoto 612-0019;Jepang\nURL;TYPE=WORK:https://github.com/Daorf1\nORG:Bot Daorf\nTITLE:Bot WhatsApp\nNOTE:Support kami yah🥰\nEND:VCARD"
     }
 ]
