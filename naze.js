@@ -6635,7 +6635,7 @@ forwardingScore: 999,
 isForwarded: true,
 forwardedNewsletterMessageInfo: {
 newsletterName: owname,
-newsletterJid: "https://whatsapp.com/channel/0029VabxGx8KGGGQCs91oB0u",
+newsletterJid: "120363288728998713@newsletter",
 },
 externalAdReply: {
 showAdAttribution: true,
@@ -7389,7 +7389,7 @@ ${f}*Jam* : ${jam} WIB
 						forwardingScore: 10,
 						isForwarded: true,
 						forwardedNewsletterMessageInfo: {
-							sourceUrl: my.ch,
+							newsletterJid: my.ch,
 							serverMessageId: null,
 							newsletterName: `${botname}${randomEmoji}`
 						},
