@@ -34,7 +34,7 @@ global.my = {
 	yt: 'https://www.youtube.com/@Daorf1',
 	gh: 'https://github.com/Daorf1',
 	gc: 'https://chat.whatsapp.com/J8xljlTLbBW7UuEdNKeaUr',
-	ch: 'https://whatsapp.com/channel/0029VabxGx8KGGGQCs91oB0u',
+	ch: '120363288728998713@newsletter',
 }
 global.limit = {
 	free: 999,
